@@ -2,7 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-echo ".idea/" >> .gitignore
+*.iml
+.idea/
 .kotlin
 
 ### Eclipse ###
